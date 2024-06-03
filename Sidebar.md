@@ -3,3 +3,7 @@
 [[Focus]]  
 [[Edit]]  
 [[Dots]]  
+[[Controls]]  
+[[Details]]  
+[[Graph]]  
+

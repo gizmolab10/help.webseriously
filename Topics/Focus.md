@@ -1,3 +1,5 @@
+# Focusing
+
 - The left-most dot (anchoring the graph) is the **focus dot** and represents the **focused item**.
 - The title of the **focused item** appears above the graph.
 - You can click the **focus dot** to make it the **selected** item. This changes the **focus** to the parent (if there is one).

@@ -1,3 +1,5 @@
+# Selecting
+
 - A **selected** item is surrounded with a border and the color of its dots are reversed (as illustrated above).
 - To **add a child** item to it (and begin editing the child), tap the _Space_ key.
 - To **duplicate** an item (and begin to edit the duplicate), tap the _D_ key.
