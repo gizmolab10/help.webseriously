@@ -1,4 +1,4 @@
-# Your Massive Wiki
+# WebSeriously Help
 
 Version 2023-09-13-002.
 
