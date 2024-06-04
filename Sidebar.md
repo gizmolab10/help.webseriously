@@ -1,6 +1,6 @@
 [[README|Home]]  
 [[Graph]], [[Tree]], [[Clusters]]  
-[[Top]], [[Controls]], [[Breadcrumbs]]  
+[[Controls]], [[Breadcrumbs]]  
 [[Details]]  
 
 ---
