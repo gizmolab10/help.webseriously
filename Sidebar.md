@@ -1,10 +1,10 @@
 [[README|Home]]  
+[[Top]]  
 [[Controls]]  
 [[Details]]  
 [[Graph]]  
 
 ---
-Actions:
 [[Select]]  
 [[Browse]]  
 [[Focus]]  
