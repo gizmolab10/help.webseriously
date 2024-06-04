@@ -1,4 +1,7 @@
-# Welcome to Seriously Help
-Seriously is a [[Graph|graph]] of your hierarchal data. It's presents your data as a hierarchal menu system. You can easily [[Browse|browse]], [[Focus|focus]], [[Edit|edit]] your data. It has three areas, the [[Graph|graph]], [[Top|top bar]] and [[Details|details]], as below.
+# Welcome to Seriously
+
+Seriously is a [[Graph|graph]] of your hierarchal data. Think: hierarchal pop-down menu, but less fussy. [[Browse]] around. Zoom your [[Focus|focus]] (hide unimportant stuff). [[Edit]] your data in comfort and instantly see the impact.
+
+It has three areas: [[Top|top]], left and right. [[Details]] are on the left. The large area on the right is the [[Graph|graph]].
 
 ![[panel.png]]  
