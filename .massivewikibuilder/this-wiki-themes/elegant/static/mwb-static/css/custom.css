@@ -1,4 +1,5 @@
 /* use this file to add custom CSS */
 li {
-  height:30px;
+  line-height:1.5;
+  padding:8px;
 }
