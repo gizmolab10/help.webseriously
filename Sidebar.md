@@ -1,8 +1,7 @@
 [[README|Home]]  
-[[Top]]  
-[[Controls]]  
+[[Top]]  [[Controls]]  
 [[Details]]  
-[[Graph]]  
+[[Graph]]  [[Clusters]]  
 
 ---
 [[Select]]  
