@@ -3,7 +3,7 @@
 ![[controls.png]]  
 It has five buttons. From left to right, they are:
 - [[Details]]
-- [[Graph|Layout]]
-- Filter
+- Filter (not yet implemented)
+- [[Graph]]  
 - Build Notes
 - Help (brings you here)
