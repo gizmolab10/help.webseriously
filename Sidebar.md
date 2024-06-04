@@ -1,12 +1,10 @@
 [[README|Home]]  
+[[Graph]], [[Clusters]], [[Tree]]  
 [[Top]], [[Controls]]  
 [[Details]]  
-[[Graph]], [[Clusters]], [[Tree]]  
 
 ---
-[[Select]]  
-[[Browse]]  
-[[Focus]]  
-[[Edit]]  
+[[Browse]], [[Focus]]  
+[[Select]], [[Edit]]  
 [[Dots]]  
 
