@@ -1,12 +1,13 @@
-- [[README|Home]]  
-- [[Controls]]  
-- [[Details]]  
-- [[Graph]]  
+[[README|Home]]  
+[[Controls]]  
+[[Details]]  
+[[Graph]]  
+
 ---
 Actions:
-- [[Select]]  
-- [[Browse]]  
-- [[Focus]]  
-- [[Edit]]  
-- [[Dots]]  
+[[Select]]  
+[[Browse]]  
+[[Focus]]  
+[[Edit]]  
+[[Dots]]  
 
