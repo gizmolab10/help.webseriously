@@ -8,4 +8,4 @@
 - To **delete** it, tap the _Delete_ key.
 - To **move** it, hold the _Option_ key down and tap an arrow key.
 - To add a **line**, tap the _Hyphen_ key.
-- The buttons above the graph indicates the location of the **selected** item within the hierarchy. They are called [[Breadcrumbs|breadcrumbs]]. 
+- The buttons above the graph indicates the location of the **selected** item within the hierarchy. They are called [[breadcrumbs]]. 
