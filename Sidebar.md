@@ -1,4 +1,4 @@
-[[README|Home]]  
+[[README|home]]  
 [[graph]], [[tree]], [[clusters]]  
 [[controls]], [[breadcrumbs]]  
 [[details]]  
