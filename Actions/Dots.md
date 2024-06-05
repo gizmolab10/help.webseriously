@@ -11,6 +11,6 @@ Each item in the graph has a **drag** dot on the left. In the tree graph, some i
 ---
 ### What are those tiny dots?
 
-- The tiny dots around the reveal dot represent the number of its children.
-- The tiny dots inside the drag dot represent the number of its parents.
-- The dot stuck to the left side of the drag dot indicates it has items related to it.
+- The tiny dots **around the reveal dot** represent the number of its children.
+- The tiny dots **inside the drag dot** represent the number of its parents.
+- The dot stuck to the **left side of the drag dot** indicates it has items related to it.
