@@ -1,6 +1,6 @@
 # Dots
 
-![[selected.png]]  
+	![[dots.png]]  
 
 ---
 - Click the dots (to right and left of each item) to display the items in the child **browse right** or parent list **browse left**, respectively.
