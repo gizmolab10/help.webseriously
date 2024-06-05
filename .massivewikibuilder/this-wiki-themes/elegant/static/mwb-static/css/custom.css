@@ -11,3 +11,7 @@ a {
   font-weight: bold;  /* Makes the text bold */
   text-decoration: underline; /* Underlines the text */
 }
+
+.navbar.is-info {
+  background-color: #dc9532;
+}
