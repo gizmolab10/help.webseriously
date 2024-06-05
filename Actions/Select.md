@@ -1,5 +1,5 @@
 # Selecting
-![[exemplar.png]]  
+![[selected.png]]  
 
 ---
 - Click on an item to **select** it (this will unselect the previous selection).

@@ -1,5 +1,5 @@
 # Editing
-![[exemplar.png]]
+![[selected.png]]
 
 ---
 - To **edit** an item, **[[select]]** it and tap the _Enter_ key.
