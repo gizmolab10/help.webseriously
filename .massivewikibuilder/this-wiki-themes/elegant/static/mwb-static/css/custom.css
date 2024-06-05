@@ -3,7 +3,7 @@ hr { height: 1px; }
 em { color: red; }
 
 li {
-  line-height:1.25;
+  line-height:1;
   padding:2px;
 }
 
@@ -14,4 +14,8 @@ a {
 
 .navbar.is-info {
   background-color: #dc9532;
+}
+
+.section {
+  padding: 2rem 1.5rem;
 }
