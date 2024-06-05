@@ -10,8 +10,8 @@
 ---
 Several other kinds of editing are available. They are available in a circular palette. Long click (hold down for half a second) on an item to bring it up (as illustrated above).
 
-- Trash can: delete the item.
+- Trash can: **delete** the item.
 - Two plus buttons:
-	- Right-pointing: add a child.
-	- Left-pointing: select an additional parent.
-- Upward-pointing: change selection to the same item, but in its next parent.
+	- Right-pointing: add a **child**.
+	- Left-pointing: select and add an additional **parent**.
+- Upward-pointing: **change** selection to the same item, but **in its next parent**.
