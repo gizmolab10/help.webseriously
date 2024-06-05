@@ -1,6 +1,7 @@
 # Dots
 
 	![[dots.png]]  
+  
 
 ---
 Each item in the graph has a **drag** dot on the left. In the tree graph, some items have a **reveal** dot on the right (both illustrated above).
