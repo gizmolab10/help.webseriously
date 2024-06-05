@@ -7,8 +7,7 @@
 
 ![[edit-tools.png]]
 
----
-Several other kinds of editing are available. They are available in a circular palette. Long click (hold down for half a second) on an item to bring it up (as illustrated above).
+Several other kinds of editing are available. They are available in a circular palette, which I call the **editing tools**. Long click (hold down for half a second) on an item to bring it up (as illustrated above).
 
 - Trash can: **delete** the item.
 - Two plus buttons:
