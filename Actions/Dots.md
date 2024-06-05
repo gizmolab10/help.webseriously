@@ -1,6 +1,6 @@
 # Dots
 
-	![[dots.png]]  
+	![[dots.png]]    
   
 
 ---
