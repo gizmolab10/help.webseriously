@@ -9,5 +9,5 @@
 - To **delete** it, tap the _Delete_ key.
 - To **move** it, hold the _Option_ key down and tap an arrow key.
 - To add a **line**, tap the _Hyphen_ key.
-- To select a second item, hold down the *Shift* key when you click on it.
-- When two or more items are selected hold the *Shift* key down when you  click on one of them to unselect it.
+- To **select a second** item, hold down the *Shift* key when you click on it.
+- To **unselect** an item, hold the *Shift* key down when you click on it.
