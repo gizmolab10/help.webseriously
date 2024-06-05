@@ -1,8 +1,12 @@
-/* use this file to add custom CSS */
+b {
+  color: green;
+}
+
+i {
+  color: red;
+}
+
 li {
   line-height:1.5;
   padding:8px;
 }
-
-b { color: green; }
-i { color: red; }
