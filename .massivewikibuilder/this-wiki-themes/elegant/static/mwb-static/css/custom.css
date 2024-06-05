@@ -1,10 +1,6 @@
-strong {
-  color: green;
-}
-
-em {
-  color: red;
-}
+strong { color: green; }
+hr { height: 1px; }
+em { color: red; }
 
 li {
   line-height:1.25;
