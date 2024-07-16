@@ -1,2 +1,2 @@
 #! /bin/sh
-python3 -m http.server --directory /Users/sand/GitHub/help.webseriously/.massivewikibuilder/output
+python3 -m http.server --directory output
