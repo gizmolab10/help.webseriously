@@ -2,7 +2,7 @@
 
 ![[edit-tools.png]]
 
-Eventually you want to move ideas around and add new ones. The organing tools are available in a circular palette (as above). It appears on a selected item when you tap the back-quote key (\`), usually located to the left of the numeral 1 key.
+Eventually you want to move ideas around and add new ones. The organizing tools for doing that are available in a circular palette. It appears on a selected item (as above) when you tap the back-quote key (\`). That key is usually located to the left of the numeral 1 key. Here is what those seven buttons do:
 
 - 'X' button in the center: dismiss the palette.
 - Trash can button: **delete** the item.
