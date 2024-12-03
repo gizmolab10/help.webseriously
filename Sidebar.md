@@ -5,6 +5,5 @@
 
 ---
 [[browse]], [[focus]]  
-[[select]], [[edit]]  
-[[dots]]  
-
+[[select]], [[dots]]  
+[[edit]], [[organize]]  

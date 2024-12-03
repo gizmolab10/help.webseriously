@@ -2,7 +2,7 @@
 
 ![[edit-tools.png]]
 
-Seriously also helps you move and add ideas using the editing tools. They are available in a circular palette (in the image above). To use it, select an item and tap on the back quote key (\`) to the left of the numeral 1 key. 
+Eventually you want to move ideas around and add new ones. The organing tools are available in a circular palette (as above). It appears on a selected item when you tap the back-quote key (\`) to the left of the numeral 1 key. 
 
 - 'x' button in the center: dismiss the palette.
 - Trash can button: **delete** the item.
