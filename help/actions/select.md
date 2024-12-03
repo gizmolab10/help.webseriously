@@ -1,7 +1,6 @@
 # Selecting
 ![[selected.png]]  
 
----
 - Click on an item to **select** it (this will unselect the previous selection).
 - A **selected** item is surrounded with a border and the color of its dots are reversed (as illustrated above).
 - To **add a child** item to it (and **begin editing** the child), tap the _Space_ key.
