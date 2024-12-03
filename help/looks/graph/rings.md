@@ -1,2 +1,2 @@
-# Clusters
+# Rings view
 

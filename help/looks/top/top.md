@@ -1,5 +1,5 @@
 # Top
 
-The top has two bands, controls (above) and breadcrumbs.
+The top has two bands, [[controls]] and [[crumbs]].
 
 ![[top.png]]
