@@ -5,5 +5,3 @@ Seriously is a hierarchal [[graph]] of your ideas. You can [[browse]] around, n
 Seriously has four areas (illustrated below): The large area at the lower right is the [[graph]]. This is where you view and edit your ideas.There are two strips at the [[top]] are the [[controls]] and [[crumbs]]. [[details|Details]] are at the left. 
 
 ![[panel.png]]  
-
-[[start|.]]  
