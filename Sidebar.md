@@ -7,3 +7,5 @@
 [[browse]], [[focus]]  
 [[select]], [[dots]]  
 [[edit]], [[organize]]  
+
+[[start|.]]  
