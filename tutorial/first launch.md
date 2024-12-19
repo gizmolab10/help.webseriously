@@ -4,6 +4,6 @@ So, hey. We'll start out with a list. You likely make them a lot. We'll make one
 
 You're maybe looking at this:
 
-<picture of first time>
+![[first launch.png]]
 
 Move the mouse ... to select

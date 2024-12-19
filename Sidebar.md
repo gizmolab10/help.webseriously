@@ -8,4 +8,4 @@
 [[select]], [[dots]]  
 [[edit]], [[organize]]  
 
-[[start|.]]  
+[[first launch|.]]  
