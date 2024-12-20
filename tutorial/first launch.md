@@ -9,3 +9,5 @@ The oblong at the bottom is surrounding your name, indicating that it is [[selec
 
 ![[first list item.png]]
 A list with one item appears. The title of this new item is "idea." It is surrounded by a dashed oblong, indicating it is waiting for you to type something. The title is selected, meaning that whatever you type first completely deletes the title, replacing it with what you type. So, type "i am here" and this is what you will see:
+
+![[first item edited.png]] 
