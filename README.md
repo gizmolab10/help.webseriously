@@ -1,7 +1,3 @@
 # Welcome to Seriously
 
-Seriously is a hierarchal [[graph]] of your ideas. You can [[browse]] around, narrow your [[focus]] (hide unimportant stuff). You can [[edit]] your data in comfort and instantly see the impact.
-
-Seriously has four areas (illustrated below): The large area at the lower right is the [[graph]]. This is where you view and edit your ideas.There are two strips at the [[top]] are the [[controls]] and [[crumbs]]. [[details|Details]] are at the left. 
-
-![[panel.png]]  
+Seriously is a hierarchal [[graph]] of your ideas. I've written a [[tutorial]] to gently take you through your fist steps and hopefully give you a comfortable sense of what it can do and why you might want to use it. I've also written a [[user guide]] for your reference later when you need to refresh your memory.
