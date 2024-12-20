@@ -1,6 +1,6 @@
 # Lists
 
-So, hey. We'll start out with a list. You'll likely make them a lot. We'll make one here. First, unless you already have, [[tutorial|visit webseriously]]. This is what you will see (with your actual name, of course):
+Let's start by showing you how to create a list. You'll likely do this a lot. First, unless you already have, [[README|visit webseriously]]. This is what you will see (with your actual name, of course):
 
 ![[first item.png]]
 The oblong at the bottom is surrounding your name, indicating that it is [[select|selected]]. We'll now make a list for it. Tap the SPACE key. This is what you will now see:
