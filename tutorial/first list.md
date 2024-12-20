@@ -5,15 +5,15 @@ So, hey. We'll start out with a list. You likely make them a lot. We'll make one
 ![[first launch.png]]
 The oblong at the bottom is surrounding your name, indicating that it is [[select|selected]]. We'll now make a list for it. Tap the SPACE key. This is what you will now see:
 
-![[first list item.png]]
+![[first list first list item.png]]
 A list with one item appears. The title of this new item is "idea." It is surrounded by a dashed oblong, indicating it is waiting for you to type something. The title is selected, meaning that whatever you type will first completely delete the title, and replace it with what you type. So, type "i am here" and this is what you will see:
 
-![[first item edited.png]] 
+![[first list first item edited.png]] 
 Now let's add another item to this list. Tap the TAB key. This is what you will now see:
 
-![[second list item.png]]  
+![[first list second item.png]]  
 Now type "I get it" and this is what you will see:
 
-![[second item edit.png]]  
+![[first list second item edit.png]]  
 One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key and then type "ahah!" and this is what you will see:
 
