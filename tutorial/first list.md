@@ -15,5 +15,6 @@ Now let's add another item to this list. Tap the TAB key. This is what you will 
 Now type "I get it" and this is what you will see:
 
 ![[first list second item edit.png]]  
-One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key and then type "ahah!" and this is what you will see:
+One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key and then type "ahah!" and hit the RETURN key. This is what you will now see:
 
+![[second list first item edited.png]]
