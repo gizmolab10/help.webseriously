@@ -8,4 +8,4 @@
 [[select]], [[dots]]  
 [[edit]], [[organize]]  
 
-[[first list|.]]  
+[[lists|.]]  
