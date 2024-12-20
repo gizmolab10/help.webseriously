@@ -12,7 +12,7 @@ A list with one item appears. The title of this new item is "idea." It is surrou
 Now let's add another item to this list. Tap the TAB key. This is what you will now see:
 
 ![[first list second item.png]]  
-Now type "I get it" and this is what you will see:
+Now type "I get it" and tap the RETURN key. This is what you will now see:
 
 ![[first list second item edit.png]]  
 One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key (just like you did above), type "ahah!" and then tap the RETURN key. This is what you will now see:
