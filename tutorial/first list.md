@@ -18,3 +18,6 @@ Now type "I get it" and tap the RETURN key. This is what you will now see:
 One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key (just like you did above), type "ahah!" and then tap the RETURN key. This is what you will now see:
 
 ![[second list first item edited.png]]  
+This is a simple hierarchy and is the core of what Seriously does
+
+.
