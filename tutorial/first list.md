@@ -1,6 +1,6 @@
 # Tutorial
 
-So, hey. We'll start out with a list. You likely make them a lot. We'll make one here. The first time you visit webseriously, this is what you will see (with your name, of course):
+So, hey. We'll start out with a list. You'll likely make them a lot. We'll make one here. The first time you visit webseriously, this is what you will see (with your name, of course):
 
 ![[first launch.png]]
 The oblong at the bottom is surrounding your name, indicating that it is [[select|selected]]. We'll now make a list for it. Tap the SPACE key. This is what you will now see:
@@ -15,6 +15,6 @@ Now let's add another item to this list. Tap the TAB key. This is what you will 
 Now type "I get it" and this is what you will see:
 
 ![[first list second item edit.png]]  
-One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key and then type "ahah!" and hit the RETURN key. This is what you will now see:
+One more thing to mention. Any item can contain a list, so let's do that now. Tap the SPACE key (just like you did above), type "ahah!" and then hit the RETURN key. This is what you will now see:
 
-![[second list first item edited.png]]
+![[second list first item edited.png]]  
