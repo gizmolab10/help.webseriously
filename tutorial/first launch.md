@@ -12,3 +12,6 @@ A list with one item appears. The title of this new item is "idea." It is surrou
 
 ![[first item edited.png]] 
 Now let's add another item to this list. Tap the TAB key. This is what you will now see:
+
+![[second item edit.png]]  
+Now type "I get it" and this is what you will see:
