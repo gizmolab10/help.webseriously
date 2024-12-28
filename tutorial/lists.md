@@ -14,3 +14,5 @@ One more thing to mention. Any item can contain a list, so let's do that now. **
 
 ![[second list first item edited.png]]  
 This is a simple hierarchy and is at the core of what Seriously does.
+
+Okay, but now what, right? Grocery lists, tasks, plans broken down into steps, broken down into smaller steps, any important information.
