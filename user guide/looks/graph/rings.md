@@ -1,2 +1,0 @@
-# Rings view
-

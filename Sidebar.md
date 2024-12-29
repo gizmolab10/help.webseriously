@@ -6,7 +6,7 @@
 [[lists]]  
 
 ---
-[[graph]], [[tree]], [[rings]]  
+[[graph]], [[tree]], [[compass]]  
 [[controls]], [[crumbs]]  
 [[details]]  
 
