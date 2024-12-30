@@ -2,7 +2,7 @@
 
 Two graph layouts are currently available: tree and cluster. Both show at least the [[focus]]. They also show:
 - [[tree]]: focused on one thing of interest and its progeny (sub-hierarchy)
-- [[compass]]: immediate relationships: children, parents and related things.
+- [[radial]]: immediate relationships: children, parents and related things.
 
 ---
 ### What these two layouts have in common
