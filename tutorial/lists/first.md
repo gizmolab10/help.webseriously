@@ -21,7 +21,7 @@ Now let's add another item to this list. **Tap the TAB key**. This is what you w
 ![[first list second item.png]]  
 Now **type "I get it" and tap the RETURN key**. This is what you will now see:
 ![[first list second item edit.png]]  
-One more thing to mention. Any item can contain a list, so let's do that now. **Tap the SPACE key** (just like you did at first), **type "ahah!" and then tap the RETURN key**. This is what you will now see:
+One more thing to mention. Any item can contain a list, so let's do that now. **Tap the SPACE key** (as you did the first time), **type "ahah!" and then tap the RETURN key**. This is what you will now see:
 
 ![[second list first item edited.png]]  
 This is a simple [[hierarchy]]. A list nestled inside a list. 
