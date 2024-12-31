@@ -1,9 +1,9 @@
 [[README|home]]  
-[[tutorial]]  
+[[start]]  
 [[user guide]]  
 
 ---
-[[lists]]  
+[[first]]  
 
 ---
 [[graph]], [[tree]], [[radial]]  
