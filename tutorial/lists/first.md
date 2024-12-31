@@ -1,6 +1,17 @@
 # Lists
 
-Some people like lists. Our memory is so-so. Lists help. Let's start by showing you how to create one. First, unless you already have, **[[README|visit webseriously]]**. This is what you will see (with your actual name, of course):
+Some people like lists. Our memory is so-so. Lists help.  How many times have you written one for:
+
+- groceries
+- tasks
+- steps in a plan
+- smaller steps
+- important information
+- reminders
+- promises
+- ideas for writing
+
+Let's start by showing you how to create one. First, unless you already have, **[[README|visit webseriously]]**. This is what you will see (with your actual name, of course):
 ![[first item.png]]
 An oblong surrounds "your name," indicating that it is [[select|selected]]. **To add a list to the selected item, tap the SPACE key.** This is what you will see:
 ![[first list first list item.png]]
@@ -13,5 +24,4 @@ Now **type "I get it" and tap the RETURN key**. This is what you will now see:
 One more thing to mention. Any item can contain a list, so let's do that now. **Tap the SPACE key** (just like you did at first), **type "ahah!" and then tap the RETURN key**. This is what you will now see:
 
 ![[second list first item edited.png]]  
-This is a simple hierarchy. A list nestled inside a list.
-.
+This is a simple [[hierarchy]]. A list nestled inside a list. 
