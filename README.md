@@ -16,4 +16,4 @@ Below is what will appear.
 
 ![[first launch.png]]  
 
-If this looks overwhelming, the important thing to notice is the "graph" in the middle of the largest view (Life, Curious, and ...). For now, you can ignore everything else. The graph is an outline or a summary or a map. I will be calling it a graph because that's the software engineering term.
+The graph is an outline or a summary or a map.
