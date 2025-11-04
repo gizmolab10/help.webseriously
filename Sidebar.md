@@ -1,12 +1,12 @@
 [[README|home]]  
-[[start]]  
+[[tutorial/graph]]  
 [[user guide]]  
 
 ---
-[[first]]  
+[[lists]]  
 
 ---
-[[graph]], [[tree]], [[radial]]  
+[[user guide/looks/graph/graph]], [[tree]], [[radial]]  
 [[controls]], [[crumbs]]  
 [[details]]  
 
