@@ -2,7 +2,7 @@
 
 What can Seriously do and why might you want to use it?
 
-This [[tutorial/graph|tutorial]] is my attempt to walk you through a first few steps and help you become familiar with and comfortable using it. A companion [[user guide]] describes each of its features.
+In this [[tutorial/graph|tutorial]] I will walk you through a first few steps and help you become familiar with and comfortable using it. A companion [[user guide]] describes each of its features.
 
 To begin, please **visit (or revisit) this website:**
 
