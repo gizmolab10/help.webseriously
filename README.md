@@ -12,7 +12,7 @@ Seriously will create a brand new repository (for your private use) the first ti
 
 [webseriously.org](https://webseriously.org)
 
-Below is an example (using my data) of what will appear.
+Below is what will appear.
 
 ![[first launch.png]]  
 
