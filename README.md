@@ -12,6 +12,6 @@ Seriously will create a brand new repository (for your private use) the first ti
 
 [webseriously.org](https://webseriously.org)
 
-This is what will appear (with your name, instead, as you spelled it):
+Below is an example (using my data) of what will appear. If this looks overwhelming, the important thing to notice is the "graph" in the largest view (Life, Curious, and ...). For now, you can ignore everything else. The graph is an outline. 
 
 ![[first launch.png]]  
